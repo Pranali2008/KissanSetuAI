@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+requests
+numpy
+lingua-language-detector
+faster-whisper
+sounddevice
+pyttsx3
+pillow
+python-multipart
